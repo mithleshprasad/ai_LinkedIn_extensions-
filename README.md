@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This project is hosted on Netlify. Video link:
+
+[Live Demo](https://66f3064bc64d5d1565ccecc0--majestic-toffee-c216f2.netlify.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
